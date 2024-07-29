@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="718be20c-8057-4b36-b357-2e4b82a8f05c" name="Changes" comment="pierwszy comit 2" />
+    <list default="true" id="718be20c-8057-4b36-b357-2e4b82a8f05c" name="Changes" comment="pierwszy comit 2">
+      <change afterPath="$PROJECT_DIR$/imiona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kamien papier .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lekcja.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lekcja_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/muzyka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,22 +31,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.muzyka.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "last_opened_file_path": "C:/Users/48518/PycharmProjects/lekcje_programowania"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\48518\PycharmProjects\szybkie aplikacje" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -48,7 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722274361037</updated>
-      <workItem from="1722275000109" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy comit">
       <option name="closed" value="true" />
@@ -66,27 +75,8 @@
       <option name="project" value="LOCAL" />
       <updated>1722274702465</updated>
     </task>
-    <task id="LOCAL-00003" summary="pierwszy comit 2">
-      <option name="closed" value="true" />
-      <created>1722275143091</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1722275143091</updated>
-    </task>
-    <task id="LOCAL-00004" summary="pierwszy comit 2">
-      <option name="closed" value="true" />
-      <created>1722275372875</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1722275372875</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pierwszy comit" />
