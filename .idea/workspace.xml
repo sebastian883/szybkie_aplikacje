@@ -5,21 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="718be20c-8057-4b36-b357-2e4b82a8f05c" name="Changes" comment="pierwszy comit 2">
-      <change afterPath="$PROJECT_DIR$/imiona.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kamien papier .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lekcja.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lekcja_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzyka.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imiona.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kamien papier .py" beforeDir="false" afterPath="$PROJECT_DIR$/kamien papier .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lekcja.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lekcja_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muzyka.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sklep.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sebastian883&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sebastian883/szybkie_aplikacje.git&quot;,
+    &quot;accountId&quot;: &quot;542b306d-dbf1-4109-ad21-e281f5057138&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -31,11 +51,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.imiona.executor": "Run",
+    "Python.kamien papier .executor": "Run",
+    "Python.lekcja_1.executor": "Run",
     "Python.muzyka.executor": "Run",
+    "Python.plecak.executor": "Run",
+    "Python.python.executor": "Run",
+    "Python.sklep.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/48518/PycharmProjects/lekcje_programowania"
+    "last_opened_file_path": "C:/Users/48518/PycharmProjects/lekcje_programowania",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,8 +102,33 @@
       <option name="project" value="LOCAL" />
       <updated>1722274702465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pierwszy comit 2">
+      <option name="closed" value="true" />
+      <created>1722276343278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722276343278</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pierwszy comit" />

@@ -1,20 +1,25 @@
 import random
-def gra_kamien_papier_nozyce():
- ruchy = ("kamien", "papier", "nozyce") #github
- for próba in range(15):
-        pozostałe_próby = 15- próba
-        print(f" pozostalo prób: {pozostałe_próby}")
-        ruch_gracza=input(" wybierz ruch (kamien, papier, nozyce): ")
-        ruch_komputera =random.choice(ruchy)
-        print(f"ruch komputera to: {ruch_komputera}")
-        if ruch_gracza == ruch_komputera:
-            print("remis")
-        elif (ruch_komputera == "kamien" and ruch_gracza == "nozyce") or  (ruch_komputera == "papier" and ruch_gracza == "kamien") or (ruch_komputera == "nozyce" and ruch_gracza == "papier"):
-             print("przegrales")
+def kamien_papier_nozyce():
+    ruchy = ("kamien", "papier", "nozyce")
+    for próba in range(20):
+        wybor_komputera = random.choice(ruchy)
+        wybor_gracza=input("wybierz ruch: kamien, papier, nozyce: ")
+        if wybor_gracza == wybor_komputera:
+            print(f"remis! wybor komputera to rowniez {wybor_komputera}")
+            print(f"pozostalo prob {19 - próba}")
+        elif (wybor_gracza == "kamien" and wybor_komputera == "nozyce") or\
+             (wybor_gracza == "nozyce" and wybor_komputera == "papier") or\
+             (wybor_gracza == "papier" and wybor_komputera == "kamien"):
+             print(f"wygrales! wybor komputera to {wybor_komputera}")
+             break
+        elif wybor_gracza not in ruchy:
+            print("nie ma takiego wyboru")
+            print(f"pozostalo prob {19 - próba}")
         else:
-            print("wygrałes")
+            print(f"przegrales! wybor komputera to {wybor_komputera}")
+            print(f"pozostalo prob {19 - próba}")
+kamien_papier_nozyce()
 
-gra_kamien_papier_nozyce()
 
 
 
